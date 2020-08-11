@@ -85,7 +85,7 @@ p {
     padding: 0 10px;
 }
 
-@medi(max-width: 600px) {
+@media (max-width: 600px) {
     .currency input {
         width: 200px;
     }
